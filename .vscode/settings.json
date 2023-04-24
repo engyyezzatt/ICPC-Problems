@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "\"code-runner.saveAllFilesBeforeRun\"": "true",
+        "iomanip": "cpp"
+    }
+}
